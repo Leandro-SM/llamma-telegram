@@ -1,15 +1,6 @@
-# Telegram
 python-telegram-bot==21.6
-
-# HTTP
 requests==2.31.0
-
-# Dados e análise
 pandas==2.2.2
 openpyxl==3.1.4
-
-# Agendamentos
 APScheduler==3.10.4
-
-# Variáveis de ambiente
 python-dotenv==1.0.1
