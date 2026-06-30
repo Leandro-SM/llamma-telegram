@@ -1,9 +1,3 @@
-"""
-scheduler.py
-Agendamentos persistentes em SQLite.
-Criados, editados e excluídos via conversa no Telegram.
-"""
-
 import json
 import re
 import sqlite3
