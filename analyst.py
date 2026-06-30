@@ -1,8 +1,3 @@
-"""
-analyst.py
-Analisa dados financeiros combinando Pandas com o LLM local.
-"""
-
 import json
 import re
 import requests
