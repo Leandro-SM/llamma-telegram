@@ -1,8 +1,3 @@
-"""
-data_manager.py
-Gerencia gastos pessoais em SQLite e carrega planilhas CSV/Excel.
-"""
-
 import sqlite3
 import pandas as pd
 from pathlib import Path
